@@ -1,4 +1,12 @@
 from intertools import combnations_with_replacement
 from match import comb
 
-combinations_with
+combinations_with_replacement()
+
+def gerar_senhas(valor : object, tamanho: object) -> object:
+    comb()
+    combinations_with_replacement()
+    (valor, tamanho)
+print(list(comb))
+valores = 'abc'
+gerar_senhas(valores, 3)
