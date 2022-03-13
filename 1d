@@ -10,3 +10,4 @@ def gerar_senhas(valor : object, tamanho: object) -> object:
 print(list(comb))
 valores = 'abc'
 gerar_senhas(valores, 3)
+
